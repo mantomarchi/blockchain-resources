@@ -10,6 +10,8 @@ This repository contains a curated collection of PDF documents, articles, and ot
 ## Tools and Software
 
 - **Blockchain Demo**: Interactive blockchain demo to help understand the basics. [Link](https://blockchaindemo.io/)
+- **Blockstream Explorer**: A powerful tool for exploring the Bitcoin blockchain. [Link](https://blockstream.info/)
+- **Etherscan**: A block explorer and analytics platform for the Ethereum blockchain. [Link](https://etherscan.io/)
 - **Interactive Blockchain Demo**: An interactive demo to help understand the basics of blockchain. [Link](https://andersbrownworth.com/blockchain)
 
 
